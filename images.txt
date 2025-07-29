@@ -5,7 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 oaisoftwarealliance/oai-amf:v2.1.0
-oaisoftwarealliance/oai-amf:v2.1.0
+oaisoftwarealliance/oai-nrf:v2.1.0
 oaisoftwarealliance/oai-upf:v2.1.0
 oaisoftwarealliance/oai-smf:v2.1.0
 oaisoftwarealliance/oai-udr:v2.1.0
