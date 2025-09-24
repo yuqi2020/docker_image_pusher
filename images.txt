@@ -15,3 +15,4 @@ oaisoftwarealliance/oai-nssf:v2.1.0
 oaisoftwarealliance/oai-pcf:v2.1.0
 oaisoftwarealliance/oai-lmf:v2.1.0
 oaisoftwarealliance/trf-gen-cn5g:latest
+mysql:8.0
